@@ -10,6 +10,9 @@ const char* USER = "root";
 const char* PW = "your Password";
 const char* DB = "mydb";
 
+//I am Shyam Dhamecha 
+//Comments are added
+
 class Seats{
 private:
 	int Seat[5][10];
